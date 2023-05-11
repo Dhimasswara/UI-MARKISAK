@@ -4,7 +4,7 @@
 </div>
   <h3 align="center">Markisak (Recipe App)</h3>
   <p align="center">
-    <a href="https://github.com/mhmdiamd/markisak-fe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dhimasswara/UI-MARKISAK"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://markisak-fe.vercel.app/">View Demo</a>
     <br />
@@ -166,9 +166,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Markisak`](https://github.com/mhmdiamd/markisak-be)
+:rocket: [`Backend Markisak`](https://github.com/dhimasswara/BE-MARKISAK)
 
-:rocket: [`Frontend Markisak`](https://github.com/ikkair/markisak-fe)
+:rocket: [`Frontend Markisak`](https://github.com/dhimasswara/UI-MARKISAK)
 
 :rocket: [`Demo Markisak`](https://markisak-fe.vercel.app/)
 
@@ -227,5 +227,5 @@ Contributions are what make the open source community such an amazing place to b
   </table>
 </center>
 
-Deployment Project Link: [https://github.com/mhmdiamd/markisak-fe](https://github.com/mhmdiamd/markisak-fe)
+Deployment Project Link: [https://github.com/dhimasswara/UI-MARKISAK](https://github.com/dhimasswara/UI-MARKISAK)
 Original Project Link: [https://github.com/ikkair/markisak-fe](https://github.com/ikkair/markisak-fe)
